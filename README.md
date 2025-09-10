@@ -1,6 +1,6 @@
 ## Ex.3 Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
-## NAME: R Raihaan Ahmed
-## REG NUMBER: 24010543
+## NAME: RAJARAMAN V
+## REG NUMBER: 212223110038
 ## Aim:
 To set up a virtualized environment using Oracle VirtualBox, install Kali Linux as a guest OS, and execute fundamental Linux commands.
 
